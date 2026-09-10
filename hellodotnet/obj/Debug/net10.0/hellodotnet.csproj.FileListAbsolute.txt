@@ -1,0 +1,14 @@
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\bin\Debug\net10.0\hellodotnet.exe
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\bin\Debug\net10.0\hellodotnet.deps.json
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\bin\Debug\net10.0\hellodotnet.runtimeconfig.json
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\bin\Debug\net10.0\hellodotnet.dll
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\bin\Debug\net10.0\hellodotnet.pdb
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\hellodotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\hellodotnet.AssemblyInfoInputs.cache
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\hellodotnet.AssemblyInfo.cs
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\hellodotnet.csproj.CoreCompileInputs.cache
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\hellodotnet.dll
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\refint\hellodotnet.dll
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\hellodotnet.pdb
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\hellodotnet.genruntimeconfig.cache
+C:\nanda\ITS\SEMESTER 5\PBKK\hellodotnet\obj\Debug\net10.0\ref\hellodotnet.dll

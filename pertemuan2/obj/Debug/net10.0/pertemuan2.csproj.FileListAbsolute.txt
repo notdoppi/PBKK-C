@@ -1,0 +1,14 @@
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\bin\Debug\net10.0\pertemuan2.exe
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\bin\Debug\net10.0\pertemuan2.deps.json
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\bin\Debug\net10.0\pertemuan2.runtimeconfig.json
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\bin\Debug\net10.0\pertemuan2.dll
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\bin\Debug\net10.0\pertemuan2.pdb
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\pertemuan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\pertemuan2.AssemblyInfoInputs.cache
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\pertemuan2.AssemblyInfo.cs
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\pertemuan2.csproj.CoreCompileInputs.cache
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\pertemuan2.dll
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\refint\pertemuan2.dll
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\pertemuan2.pdb
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\pertemuan2.genruntimeconfig.cache
+C:\nanda\ITS\SEMESTER 5\PBKK\pertemuan2\obj\Debug\net10.0\ref\pertemuan2.dll
