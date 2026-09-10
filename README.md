@@ -1,21 +1,19 @@
 # LATIHAN PERTEMUAN 2
 
-Aplikasi konsol sederhana berbasis C# untuk mengelola data mahasiswa secara *in-memory* menggunakan konsep Pemrograman Berorientasi Objek (OOP) dan struktur data `List<T>`.
+Membuat aplikasi console sederhana berbasis C# untuk mengelola data mahasiswa
+
+## Fitur yang ada:
+
+- Tambah Mahasiswa: Menambahkan data mahasiswa baru (NIM, Nama, Program Studi, IPK) dengan validasi input IPK (0.0 - 4.0).
+- Tampilkan Mahasiswa: Menampilkan seluruh daftar mahasiswa dalam bentuk tabel yang tersusun rapi.
+- Cari Mahasiswa: Mencari data spesifik mahasiswa berdasarkan NIM (*case-insensitive*).
+- Hapus Mahasiswa: Menghapus data mahasiswa dari sistem berdasarkan NIM.
 
 ---
 
-## 📌 Fitur Utama
+## Penjelasan Kode 
 
-- **Tambah Mahasiswa**: Menambahkan data mahasiswa baru (NIM, Nama, Program Studi, IPK) dengan validasi input IPK (0.0 - 4.0).
-- **Tampilkan Mahasiswa**: Menampilkan seluruh daftar mahasiswa dalam bentuk tabel yang tersusun rapi.
-- **Cari Mahasiswa**: Mencari data spesifik mahasiswa berdasarkan NIM (*case-insensitive*).
-- **Hapus Mahasiswa**: Menghapus data mahasiswa dari sistem berdasarkan NIM.
-
----
-
-## ⚙️ Penjelasan Kode Per Function / Method
-
-### 1. `Mahasiswa(string nim, string nama, string prodi, double ipk)` *(Constructor)*
+### 1. `Mahasiswa(string nim, string nama, string prodi, double ipk)`
 Method khusus yang dipanggil saat pembuatan objek baru dari class `Mahasiswa`. Bertugas menerima 4 nilai parameter (`nim`, `nama`, `prodi`, `ipk`) dan memasukkannya langsung ke dalam masing-masing properti class.
 
 ### 2. `Main(string[] args)`
