@@ -21,7 +21,7 @@ Membuat aplikasi console sederhana berbasis C# untuk mengelola data mahasiswa
 Membersihkan layar terminal (`Console.Clear()`) dan mencetak tampilan antarmuka (UI) menu utama berisi daftar opsi 1–5 ke layar
 
 ### 4. `TambahMahasiswa()`
-Meminta masukan NIM, Nama, dan Program Studi dari user. Memiliki perulangan `while(true)` khusus untuk validasi IPK agar user wajib memasukkan angka di rentang **0 hingga 4**. Setelah data valid, fungsi membuat objek `Mahasiswa` baru dan menyimpannya ke dalam `daftarMahasiswa`
+Meminta masukan NIM, Nama, dan Program Studi dari user. Memiliki perulangan `while(true)` khusus untuk validasi IPK agar user wajib memasukkan angka di rentang **0 hingga 4** (tidak boleh koma). Setelah data valid, fungsi membuat objek `Mahasiswa` baru dan menyimpannya ke dalam `daftarMahasiswa`
 
 ### 5. `TampilkanMahasiswa()`
 Mengecek apakah `daftarMahasiswa` masih kosong. Jika berisi data, fungsi ini mencetak seluruh daftar mahasiswa ke konsol menggunakan perulangan `foreach`
