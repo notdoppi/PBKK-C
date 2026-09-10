@@ -9,11 +9,9 @@ Membuat aplikasi console sederhana berbasis C# untuk mengelola data mahasiswa
 - Cari Mahasiswa: Mencari data spesifik mahasiswa berdasarkan NIM (*case-insensitive*).
 - Hapus Mahasiswa: Menghapus data mahasiswa dari sistem berdasarkan NIM.
 
----
-
 ## Penjelasan Kode 
 
-### 1. `Mahasiswa(string nim, string nama, string prodi, double ipk)`
+### 1. `Class Mahasiswa`
 Method khusus yang dipanggil saat pembuatan objek baru dari class `Mahasiswa`. Bertugas menerima 4 nilai parameter (`nim`, `nama`, `prodi`, `ipk`) dan memasukkannya langsung ke dalam masing-masing properti class.
 
 ### 2. `Main(string[] args)`
@@ -33,17 +31,5 @@ Menerima input NIM yang ingin dicari, lalu melakukan pencarian linear menyusuri 
 
 ### 7. `HapusMahasiswa()`
 Mencari objek mahasiswa berdasarkan NIM yang diinputkan user. Jika cocok, objek tersebut langsung dihapus dari daftar menggunakan method bawaan `daftarMahasiswa.Remove(mahasiswaDitemukan)`.
-
----
-
-## 🚀 Cara Menjalankan Program
-
-### Prasyarat
-- **.NET SDK** (versi 6.0 atau lebih baru).
-
-### Langkah Eksekusi
-
-1. **Inisialisasi Project**  
-   Buka terminal di folder project Anda, lalu jalankan:
    ```bash
    dotnet new console
