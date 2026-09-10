@@ -30,6 +30,4 @@ Mengecek apakah `daftarMahasiswa` masih kosong. Jika berisi data, fungsi ini men
 Menerima input NIM yang ingin dicari, lalu melakukan pencarian pada `daftarMahasiswa`. Jika NIM cocok, data mahasiswa tersebut akan dicetak ke layar.
 
 ### 7. `HapusMahasiswa()`
-Mencari objek mahasiswa berdasarkan NIM yang diinputkan user. Jika cocok, objek tersebut langsung dihapus dari daftar menggunakan method bawaan `daftarMahasiswa.Remove(mahasiswaDitemukan)`.
-   ```bash
-   dotnet new console
+Menerima input NIM yang ingin dicari. Jika cocok, objek tersebut langsung dihapus dari daftar menggunakan method bawaan `daftarMahasiswa.Remove(mahasiswaDitemukan)`.
