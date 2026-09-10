@@ -1,6 +1,6 @@
 # LATIHAN PERTEMUAN 2
 
-![menu]()
+![menu](https://github.com/notdoppi/PBKK-C/blob/0051a23e9c8cd5293197ac51fde731dac282095a/pertemuan2/gambar/Screenshot%202026-09-10%20104359.png)
 
 Membuat aplikasi console sederhana berbasis C# untuk mengelola data mahasiswa
 
