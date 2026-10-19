@@ -1,5 +1,6 @@
 # LAPORAN APLIKASI KALKULATOR (WINDOWS FORM)
 
+![image](https://github.com/notdoppi/PBKK-C/blob/77c75ab266bf376be6586adcbcae55ec336e7d65/pertemuan3/WhatsApp%20Image%202026-10-19%20at%2017.47.13.jpeg)
 
 ## 1. Pendahuluan
 
