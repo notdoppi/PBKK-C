@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|c:\\nanda\\its\\semester 5\\pbkk\\pertemuan4\\data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|solutionrelative:data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|c:\\nanda\\its\\semester 5\\pbkk\\pertemuan4\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|c:\\nanda\\its\\semester 5\\pbkk\\pertemuan4\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|solutionrelative:viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|c:\\nanda\\its\\semester 5\\pbkk\\pertemuan4\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|solutionrelative:viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|c:\\nanda\\its\\semester 5\\pbkk\\pertemuan4\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|c:\\nanda\\its\\semester 5\\pbkk\\pertemuan4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|c:\\nanda\\its\\semester 5\\pbkk\\pertemuan4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83D6CBBF-860D-4A99-A4E8-84ACF2C6AFA4}|pertemuan4.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:42:19.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\viewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "viewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\viewModels\\RelayCommand.cs",
+              "RelativeToolTip": "viewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:31:06.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\data\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "data\\StudentRepository.cs",
+              "ToolTip": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\data\\StudentRepository.cs",
+              "RelativeToolTip": "data\\StudentRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwE8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:29:07.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T09:20:49.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\viewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "viewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\viewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "viewModels\\StudentViewModel.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:33:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\models\\Student.cs",
+              "RelativeDocumentMoniker": "models\\Student.cs",
+              "ToolTip": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\models\\Student.cs",
+              "RelativeToolTip": "models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:26:27.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\nanda\\ITS\\SEMESTER 5\\PBKK\\pertemuan4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T09:20:46.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
