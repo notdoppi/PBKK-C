@@ -1,0 +1,68 @@
+﻿<Window x:Class="StudentAttendanceApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Aplikasi Presensi Mahasiswa" Height="620" Width="850"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- FORM INPUT PRESENSI (KIRI) -->
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="INPUT PRESENSI" FontSize="20" FontWeight="Bold" Margin="0,0,0,15"/>
+
+            <!-- Control 1: TextBox (NIM & Nama) -->
+            <TextBlock Text="NIM"/>
+            <TextBox x:Name="txtNim" Height="30" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Nama Mahasiswa"/>
+            <TextBox x:Name="txtNama" Height="30" Margin="0,5,0,10"/>
+
+            <!-- Control 2: ComboBox (Mata Kuliah) -->
+            <TextBlock Text="Mata Kuliah"/>
+            <ComboBox x:Name="cmbMatkul" Height="30" Margin="0,5,0,10">
+                <ComboBoxItem Content="Pemrograman .NET"/>
+                <ComboBoxItem Content="Jaringan Komputer"/>
+                <ComboBoxItem Content="Kecerdasan Buatan"/>
+                <ComboBoxItem Content="Basis Data"/>
+            </ComboBox>
+
+            <!-- Control 3: DatePicker (Tanggal Presensi) -->
+            <TextBlock Text="Tanggal Presensi"/>
+            <DatePicker x:Name="dpTanggal" Height="30" Margin="0,5,0,10"/>
+
+            <!-- Control 4: RadioButton (Status Kehadiran) -->
+            <TextBlock Text="Status Kehadiran"/>
+            <StackPanel Orientation="Horizontal" Margin="0,5,0,15">
+                <RadioButton x:Name="rbHadir" Content="Hadir" Margin="0,0,10,0" IsChecked="True"/>
+                <RadioButton x:Name="rbIzin" Content="Izin" Margin="0,0,10,0"/>
+                <RadioButton x:Name="rbSakit" Content="Sakit" Margin="0,0,10,0"/>
+                <RadioButton x:Name="rbAlpa" Content="Alpa"/>
+            </StackPanel>
+
+            <!-- Control 5: Button (Event Action) -->
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <!-- Event 1: Simpan -->
+                <Button Content="Simpan" Width="100" Height="35" Margin="0,0,10,0" Click="BtnSimpan_Click"/>
+                <!-- Event 2: Reset -->
+                <Button Content="Reset" Width="100" Height="35" Click="BtnReset_Click"/>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- DAFTAR PRESENSI (KANAN) -->
+        <StackPanel Grid.Column="2">
+            <TextBlock Text="REKAP PRESENSI" FontSize="20" FontWeight="Bold" Margin="0,0,0,15"/>
+
+            <!-- Control 6: ListBox (Menampilkan Rekap Presensi) -->
+            <ListBox x:Name="lstPresensi" Height="400"/>
+
+            <!-- Event 3: Hapus -->
+            <Button Content="Hapus Presensi Terpilih" Width="170" Height="35" 
+                    HorizontalAlignment="Right" Margin="0,10,0,0" Click="BtnHapus_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
