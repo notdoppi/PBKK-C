@@ -1,6 +1,6 @@
 # LAPORAN PRAKTIKUM: STUDENT MANAGEMENT SYSTEM
 
-![image]()
+![image](https://github.com/notdoppi/PBKK-C/blob/8a18461697b15a0f386ab98fddcec1bb13881808/pertemuan5/WhatsApp%20Image%202026-10-19%20at%2017.23.23.jpeg)
 
 ## 1. Pendahuluan
 
