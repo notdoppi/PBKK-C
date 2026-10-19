@@ -1,6 +1,6 @@
 # LAPORAN STUDENT ATTENDANCE APPLICATION
 
-![image]()
+![image](https://github.com/notdoppi/PBKK-C/blob/3d3bf7626599fae420d036156bf6ee26d6f5f5c2/pertemuan4/WhatsApp%20Image%202026-10-19%20at%2017.05.01.jpeg)
 
 ### 1. Pendahuluan
 
