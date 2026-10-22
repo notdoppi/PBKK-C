@@ -1,7 +1,7 @@
 # ETS PBKK
-| Nama | NRP | Aplikasi |
-| --- | --- | ---|
-| Dwinanda Rakhish Baley | 5025241198 | Tournament Manager |
+| Nama | NRP | Aplikasi | Link Blog |
+| --- | --- | --- | --- |
+| Dwinanda Rakhish Baley | 5025241198 | Tournament Manager | https://github.com/erlanggardr/TournamentManager/tree/main |
 
 ## 1. Jelaskan perbedaan aplikasi desktop dengan aplikasi lain? Mengapa masih dibutuhkan
 Aplikasi Desktop adalah sebuah software yang dijalankan secara lokal pada komputer. 
