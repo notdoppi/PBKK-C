@@ -1,4 +1,4 @@
 # ETS PBKK
-| NAMA | Dwinanda Rakhish Baley |
-| NRP | 5025241198|
-| Kelas | PBKK C |
+| Nama | NRP |
+| --- | --- | 
+| Dwinanda Rakhish Baley | 5025241198 |
