@@ -23,4 +23,4 @@ Aplikasi Desktop masih dibutuhkan karena dapat memanfaatkan potensi penuh dari h
 Salah satu problem yang dapat diselesaikan oleh aplikasi kita adalah adanya tab **Live Scoring** yang dapat membantu audience/penonton untuk melihat skor pertandingan yang sedang berlangsung. Pada tab live scoring ini, kita dapat melihat skor dari masing masing tim, Babak yang sedang berlangsung, dan juga durasi yang sudah berjalan dari pertandingan tersebut. Dengan adanya live scoring ini, audience/penonton dapat melihat score tim kesayangan mereka secara real time.
 
 ## 3. Buat Poster Infografis aplikasi yang telah dibuat dalam 1 halaman.
-![poster](https://github.com/notdoppi/PBKK-C/blob/7ff4c5b00e26b4532e3df9c1d4038eac6ef02e0e/ETS/Tournament%20Manager.png)
+![poster](https://github.com/notdoppi/PBKK-C/blob/c2eef15c427dea038aeb31f97eeb2d21195b458b/ETS/infografis.png)
