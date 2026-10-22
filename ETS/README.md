@@ -3,7 +3,7 @@
 | --- | --- | --- | --- |
 | Dwinanda Rakhish Baley | 5025241198 | Tournament Manager | https://github.com/erlanggardr/TournamentManager/tree/main |
 
-!image()
+![image](https://github.com/notdoppi/PBKK-C/blob/ca693ea3ea0620398c50f4b2cad7a0afa4108e25/ETS/Screenshot%202026-10-22%20080519.png)
 
 ## 1. Jelaskan perbedaan aplikasi desktop dengan aplikasi lain? Mengapa masih dibutuhkan
 Aplikasi Desktop adalah sebuah software yang dijalankan secara lokal pada komputer. 
